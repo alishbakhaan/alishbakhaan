@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="100%" height="500px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw0KuTpf7QKBgEtH4WzEJ-61&ust=1731502658325000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCv55js1okDFQAAAAAdAAAAABAT"/>
+<img align="center" alt="Coding" width="100%" height="500px" src="https://giffiles.alphacoders.com/121/12113.gif"/>
 
 <h1 align="center">Hi 👋, I'm Alishba Khan</h1>
 <h3 align="center">Passionate about building robust and dynamic web applications end-to-end.</h3>
